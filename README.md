@@ -1,5 +1,5 @@
 # iterm2-monokai-pro
-iTerm2 Monokai Pro Color Scheme
+iTerm2 Monokai Pro Color Scheme - with fixed bg color
 
 ### ScreenShot
-![screenshot](https://github.com/ayatmaulana/iterm2-monokai-pro/blob/master/Screen%20Shot%202019-06-05%20at%2017.55.23.png?raw=true)
+![image](https://github.com/NeoScript/iterm2-monokai-pro/assets/3144162/4f61eb6b-4803-4383-a703-f162637dca2b)
